@@ -17,3 +17,7 @@
 Обрати внимание на техническую информацию при запуске приложения.
 Изучи требования к бэкенду и документацию к API. Требования к бэкенду — \https://code.s3.yandex.net/qa/files/requirements_backend.pdf
 Разработай чек-лист и протестируй API по требованиям, которые выделены жирным шрифтом.
+
+Ссылка на гугл-таблицу https://docs.google.com/spreadsheets/d/1j2Kdi6WQWnVanOKHZRPEzII7jB7h28V4woCv6IRD2Yw/edit?usp=sharing
+Отчет: https://docs.google.com/document/d/1PZBd3eUHpmrKG0xPXfypgUp5zL84AwUBFWiznUz4qzc/edit?tab=t.0
+Трекер: https://tracker.yandex.ru/BUG
